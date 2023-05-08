@@ -9,7 +9,9 @@ int pedirEntero(){
     return num;
 }
 
-void imprimeEntero(int x){ printf("El numero es %d",x) ;}
+void imprimeEntero(int x){
+    printf("El numero es %d",x);
+    }
 
 int main(){
 
